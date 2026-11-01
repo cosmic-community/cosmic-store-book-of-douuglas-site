@@ -18,7 +18,7 @@ A sleek, modern e-commerce storefront for Cosmic company swag — built with Nex
 
 Want to create your own version of this project with all the content and structure? Clone this Cosmic bucket and code repository to get started instantly:
 
-[![Clone this Project](https://img.shields.io/badge/Clone%20this%20Project-29abe2?style=for-the-badge&logo=cosmic&logoColor=white)](https://app.cosmicjs.com/projects/new?clone_bucket=6a42be0a903866d6a2d3207f&clone_repository=6a42bee2903866d6a2d320ac)
+[![Clone this Project](https://img.shields.io/badge/Clone%20this%20Project-29abe2?style=for-the-badge&logo=cosmic&logoColor=white)](https://app.cosmicjs.com/projects/new?clone_bucket=6ae6dc645b93710bce4e15e1&clone_repository=6a42bee2903866d6a2d320ac)
 
 ## Prompts
 
